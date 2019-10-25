@@ -1,2 +1,5 @@
 # fab-mentorship
-A repo for developers to guide newcomers into the industry.
+
+![code_icon](/Images/code.png)
+
+A repo for developers to guide newcomers into the industry. 
