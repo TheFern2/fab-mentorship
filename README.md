@@ -6,4 +6,4 @@ A repo for developers to guide newcomers into the industry.
 
 ## Table of Contents
 
-- [Getting Started](/Getting_Started/Getting_Started.md)
+- [Getting Started](/Getting-Started/Getting_Started.md)
