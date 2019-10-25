@@ -1,4 +1,8 @@
-## Getting Started
+## Contents
+
+- [Choosing a Path](#choosing-a-path)
+- [Education](#education)
+- [Discovery and Experimentation](#discovery-and-experimentation)
 
 Getting started in tech is a process of learning, and discovery. At times it can feel like swimming against the current in open water, and other times it feels like riding a wave in a surf board. In this repo I will guide you from the ground up, so you can eventually fly on your own.
 
