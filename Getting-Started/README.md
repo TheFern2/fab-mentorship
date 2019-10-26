@@ -1,4 +1,8 @@
-## Contents
+# Getting Started
+
+An intro on how to get started to learn programming, and getting into tech.
+
+## Table of Contents
 
 - [Choosing a Path](#choosing-a-path)
 - [Education](#education)
@@ -30,7 +34,7 @@ Below are some of the paths of learning and education you can take (Not in any o
 - College
 - Bootcamp (In tech, not military)
 - Self taught
-- Company Sponsored (Is that a thing?)
+- Company Sponsored (Is that a thing?, if so please make sure to contribute a story)
 
 ## Discovery and Experimentation
 
