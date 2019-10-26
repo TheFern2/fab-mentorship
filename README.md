@@ -7,3 +7,4 @@ A repo for developers to guide newcomers into the industry.
 ## Table of Contents
 
 - [Getting Started](/Getting-Started/README.md)
+- [How to Contribute](/Docs/Contribute.md)
